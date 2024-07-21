@@ -1,0 +1,11 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+@media (max-width: 600px) {
+    .product {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
